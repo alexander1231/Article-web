@@ -1,0 +1,24 @@
+.container-1480{margin:0 auto;max-width:1480px !important;width:90% !important;}
+
+.font-l{
+	font-size: 34px;
+}
+
+.padd-2{
+	padding: 20px
+}
+
+.box-article{
+	height: 70vh;
+	background: #000;
+	position: relative;
+}
+
+.footer-article{
+	bottom: 0;
+	left: 10px;
+}
+
+.color-white:before{
+	color: black !important;
+}
